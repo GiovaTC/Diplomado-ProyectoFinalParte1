@@ -1,0 +1,4 @@
+com\diplomado\articulo\model\Conexion.class
+com\diplomado\articulo\controller\AdminArticulo.class
+com\diplomado\articulo\dao\ArticuloDAO.class
+com\diplomado\articulo\model\Articulo.class
